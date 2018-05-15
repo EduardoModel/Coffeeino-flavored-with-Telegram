@@ -7,7 +7,7 @@ const Telegraf = require('telegraf')
 const Markup = require('telegraf/markup')
 //Substitui o token no espaço BOT_TOKEN
 //const BOT_TOKEN = 'seu_token_aqui'
-
+const BOT_TOKEN = '482598542:AAGc2Dz0MFKo8S6_OtLKS5RCjngdafZ_72w'
 const bot = new Telegraf(BOT_TOKEN)
 
 //Status da cafeteira
