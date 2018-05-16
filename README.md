@@ -10,3 +10,6 @@ Para configurar o Bot do telegram:
 2 - Digite no campo de pesquisa "BotFather", sem as aspas
 3 - Selecione e mande os seguintes comandos: /start, /newbot, "Nome do seu bot", "Nome_do_seu_bot_bot" (precisa terminar com "bot" quando for criar)
 4 - O BotFather irá gerar um token de acesso, cole ele na parte do código que diz "token"
+
+Circuito
+![coffeeino_bb](https://user-images.githubusercontent.com/12562843/40142339-b0d6543a-592e-11e8-9c11-2e062dcd0f6e.png)
