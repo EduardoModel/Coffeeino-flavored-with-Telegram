@@ -18,5 +18,5 @@
 
 4 - O BotFather irá gerar um token de acesso, cole ele na parte do código que diz "token"
 
-Circuito
-![coffeeino_bb](https://user-images.githubusercontent.com/12562843/40142339-b0d6543a-592e-11e8-9c11-2e062dcd0f6e.png)
+## Circuito
+![coffeeino_bb](https://user-images.githubusercontent.com/12562843/40142655-9efff698-592f-11e8-8c61-05b758f4f640.png)
